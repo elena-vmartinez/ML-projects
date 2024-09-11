@@ -1,0 +1,18 @@
+Three datasets explored:
+
+#1 https://www.kaggle.com/datasets/sk4467/email-ctr-prediction
+Includes:
+- Subject length
+- Body length
+- Day of week sent
+- Time sent
+Potential to predict click rate based on these factors.
+
+#2 https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
+Randomly picked email files and their respective labels for spam or not-spam classification. Includes relative email spam stats, but irrelevant to email CTR.
+
+#3 https://www.kaggle.com/datasets/mohinurabdurahimova/maildataset
+Emails and the text in them. Potential to predict spam. Irrelevant to CTR.
+
+Actual chosen dataset:
+#1: https://www.kaggle.com/datasets/sk4467/email-ctr-prediction
