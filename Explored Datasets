@@ -14,5 +14,13 @@ Randomly picked email files and their respective labels for spam or not-spam cla
 #3 https://www.kaggle.com/datasets/mohinurabdurahimova/maildataset
 Emails and the text in them. Potential to predict spam. Irrelevant to CTR.
 
-Actual chosen dataset:
-#1: https://www.kaggle.com/datasets/sk4467/email-ctr-prediction
+OKAY I WAS GOING TO GO INTO THE DIRECTION OF MARKETING but this instead has peaked my interest in the realm of cybersecurity.
+
+(POTENTIAL) CHOSEN OPTION #4
+Microsoft Security Incident Prediction Dataset - Kaggle
+https://www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction/data
+SIZE: 538MB 
+"Contains over 13 million pieces of evidence across 33 entity types, covering 1.6 million alerts and 1 million annotated incidents with triage labels from 
+customers over a two-week period...We provide three hierarchies of data: (1) evidence, (2) alert, and (3) incident. At the bottom level, evidence supports an alert. 
+For example, an alert may be associated with multiple pieces of evidence such as an IP address, email, and user details, each containing specific supporting metadata. 
+Above that, we have alerts that consolidate multiple pieces of evidence to signify a potential security incident."
