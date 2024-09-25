@@ -5,11 +5,11 @@ https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
 Size: 27 kB
 Includes genetic score of diabetes, measures glucose, blood pressure, BMI... and outcome. 
 
-# 2 Breast Cancer Dataset
+# 2 Breast Cancer Dataset ( Chosen Dataset )
 https://www.kaggle.com/datasets/nancyalaswad90/breast-cancer-dataset
 Size: 50 kB
 
-# 3 Chest X-Ray Images (Pneumonia) Dataset (Chosen Dataset)
+# 3 Chest X-Ray Images (Pneumonia) Dataset
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 Size: 2 GB
 Illustrative Examples of Chest X-Rays in Patients with/without Pneumonia. Potential to build an image recognitional model to predict whether a patient has pneumonia. 
