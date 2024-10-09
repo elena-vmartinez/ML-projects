@@ -1,16 +1,15 @@
-Objective: Build a predictive model to identify the likelihood of patients developing specific diseases.
+# 1 Web Traffic Time Series Forecasting
+Forecast future traffic to Wikipedia pages
+Shape: (145063, 551)
+Size: 611.85 MB
 
-# 1 Healthcare Diabetes Dataset
-https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
-Size: 27 kB
-Includes genetic score of diabetes, measures glucose, blood pressure, BMI... and outcome. 
+# 2 Google Analytics Customer Revenue Prediction
+Predict how much GStore customers will spend
+https://www.kaggle.com/competitions/web-traffic-time-series-forecasting/overview
+Shape: (903653, 55)
+Size: 35.9 GB
 
-# 2 Breast Cancer Dataset ( Chosen Dataset )
+# 3 Breast Cancer Dataset ( not enough samples )
 https://www.kaggle.com/datasets/nancyalaswad90/breast-cancer-dataset
 Size: 50 kB
 Samples: 569
-
-# 3 Chest X-Ray Images (Pneumonia) Dataset
-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
-Size: 2 GB
-Illustrative Examples of Chest X-Rays in Patients with/without Pneumonia. Potential to build an image recognitional model to predict whether a patient has pneumonia. 
